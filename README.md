@@ -1,1 +1,1 @@
-panel.zgplays.com
+# ubuntu-template
